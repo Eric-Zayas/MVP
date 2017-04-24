@@ -1,0 +1,22 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "'first webApp'",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eric-Zayas/MVP.git"
+  },
+  "author": "Eric Zayas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eric-Zayas/MVP/issues"
+  },
+  "homepage": "https://github.com/Eric-Zayas/MVP#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
